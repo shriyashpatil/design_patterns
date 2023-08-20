@@ -1,2 +1,2 @@
 # design_patterns
-All programmnig design patterns required for development
+All programming design patterns required for development
