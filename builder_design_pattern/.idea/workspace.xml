@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec52c55c-151b-41d4-92d9-cf0e70d85bfa" name="Changes" comment="" />
+    <list default="true" id="ec52c55c-151b-41d4-92d9-cf0e70d85bfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/values_validation/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../singleton_design_pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../singleton_design_pattern/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
